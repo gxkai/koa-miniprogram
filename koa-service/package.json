@@ -17,6 +17,8 @@
     "koa-static": "^4.0.2",
     "log4js": "^2.8.0",
     "mongoose": "^5.1.1",
+    "nproxy-plus": "^1.6.3",
+    "regenerator": "^0.14.1",
     "request": "^2.85.0",
     "uuid": "^3.2.1"
   }
